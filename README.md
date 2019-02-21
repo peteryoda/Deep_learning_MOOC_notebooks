@@ -1,7 +1,7 @@
 ## Deep Learning Andrew Ng notebooks
 
 ### Neural Networks and Deep Learning  
-building logistic regression with a Neural Network mindset;
+Building logistic regression with a Neural Network mindset;
 Planar data classification with one hidden layer; Building a Deep Neural Network step by step (Forward
 and Backward Propagation fundamentals); Deep Neural Network for Image Classification : application
 
